@@ -120,6 +120,10 @@ pwa:
 
 paginate: 10
 
+# plugins settings
+plugins:
+  - jekyll-linkpreview
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
